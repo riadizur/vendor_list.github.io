@@ -1,0 +1,25 @@
+Version 01.01.01.01
+
+INFO:
+01 Pertama: Jika ada perubahan Database
+01 Kedua  : Jika ada perubahan Menu Utama
+01 Ketiga : Jika ada Perubahan Sub Menu
+01 Keempat: Jika ada BUG FIXED SCRIPT
+
+[SCRIPT]
+No agenda munculin di  rekap penerimaaan bp ujl (BERES)
+PAGAYUBAN KOPERASI KPLP muuncul 2x di rekap penerimaan BP uJL (BERES)
+Detail pelunasan BPUJL   (BERES)
+Upload tarif dasar tambah thblrek dan thbltarif (BERES)
+Sesuaikan proses upload file insert db tr_tarif (BERES)
+Rekap piutang diganti saldo piutang per tanggal  ( BERES )
+Kolom filter tanggal dilebarin ( BERES )
+
+[MENU]
+Sub Menu Monitoring Billing di pindah paling bawah (BERES)
+
+[DATABASE]
+TR_TARIF TAMBAH FIELD THBLTARIF (BERES)
+View v_tr_tarif ganti thblrek = bulan saat ini (BERES)
+
+======================================================================================

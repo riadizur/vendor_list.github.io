@@ -1,0 +1,22 @@
+{
+    "host": "10.11.20.253",
+    "username": "programmer",
+    "password": "mulyono",
+    "remotePath": "",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "ignoreWrongFileEncoding": false,
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode/chrome",
+        "/.vscode/.key",
+        "/.vscode/ftp-kr.task.json",
+        "/.vscode/ftp-kr.error.log",
+        "/.vscode/ftp-kr.sync.*.json",
+        "/.vscode/ftp-kr.diff.*"
+    ]
+}

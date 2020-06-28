@@ -1,0 +1,10 @@
+.bg-login-image {
+    background-image: url("../images/epi_mr.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.cube {
+  width:100%;
+  height:150px;
+  text-align: center;
+}
